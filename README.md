@@ -5,8 +5,6 @@ Scrapes results from [my university's website](https://exam.pondiuni.edu.in/resu
 **Local Installation**
 
 Run these to install the necessary dependencies:
-<div style="border: 1px white; padding: 10px;">
-pip install selenium
-pip install openpyxl
-</div>
+> **_pip install selenium:_** 
+> **_pip install openpyxl:_** 
 Next run main.py
